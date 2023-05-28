@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+
+# Datanase
+db/*.db
+
+# Environments
+.env
+.env.test
+
+# Annotation
+Notas.md
+
+# Build
+build
